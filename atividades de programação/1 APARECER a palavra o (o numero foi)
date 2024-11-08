@@ -1,0 +1,10 @@
+Algoritmo "o numero informado foi"
+
+var
+a: real;
+Inicio
+escreva("digite o numero",a)
+leia(a)
+escreva("o numero digido foi",a)
+
+Fimalgoritmo
